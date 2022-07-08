@@ -1,2 +1,2 @@
-# frontend_test_repo
+# frontend_test
 Тестовий репозиторій
